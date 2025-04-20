@@ -83,7 +83,6 @@ We implemented and compared multiple semantic segmentation models:
 ### **Inference and Post-Processing**
 After model training, we performed predictions on unseen satellite tiles. Post-processing included:
 
-- Conversion of predicted outputs into binary masks.  
-- Optional re-projection of segmentation results onto geographic coordinates for downstream analysis.  
+- Conversion of predicted outputs into binary masks.
 
 This concludes Phase 1, providing a solid base for the solar potential estimation to be integrated in the next phase.
