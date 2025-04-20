@@ -86,4 +86,4 @@ After model training, we performed predictions on unseen satellite tiles. Post-p
 - Conversion of predicted outputs into binary masks.  
 - Optional re-projection of segmentation results onto geographic coordinates for downstream analysis.  
 
-This concludes Phase 1, providing a solid base for the solar potential estimation to be integrated in the next phase
+This concludes Phase 1, providing a solid base for the solar potential estimation to be integrated in the next phase.
